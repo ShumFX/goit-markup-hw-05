@@ -507,7 +507,7 @@ img {
   color: #ffffff;
   }
 
-  .form-footer {
+.form-footer {
     display: flex;
     gap: 24px;
 }
@@ -526,7 +526,7 @@ img {
   color: #ffffff;
   }
 
-  .footer-buttonn {
+  .footer-button {
     min-width: 165px;
     height: 40px;
     display: flex;
@@ -547,6 +547,10 @@ img {
   .form-icon {
     margin-left: 16px;
     fill: #fff;
+  }
+
+  .footer-mail {
+    margin-left: 80px;
   }
 
 .backdrop {
